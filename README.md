@@ -42,11 +42,10 @@ A fun, interactive math practice game designed for kids ages 5–10. Choose an o
 
 ```
 Math Calculator/
-├── Math Calculator/
-│   ├── index.html     # Main HTML — game layout, UI structure
-│   ├── style.css      # All styling — themes, animations, responsive design
-│   ├── java.js        # Game logic — state, scoring, timer, badges, hints
-│   └── logo.png       # Einstein mascot image
+├── index.html     # Main HTML — game layout, UI structure
+├── style.css      # All styling — themes, animations, responsive design
+├── java.js        # Game logic — state, scoring, timer, badges, hints
+├── logo.png       # Einstein mascot image
 └── README.md
 ```
 
@@ -59,7 +58,7 @@ Math Calculator/
    git clone https://github.com/zen-dev91/Math-Calculator-For-Kids.git
    ```
 2. **Open the game**
-   - Open `Math Calculator/index.html` in any modern browser — no build step or server required.
+   - Open `index.html` in any modern browser — no build step or server required.
 
 3. **Play!**
    - Choose your operation, difficulty, and mode
@@ -102,7 +101,7 @@ Math Calculator/
 
 ## 📸 Screenshots
 
-> Open `Math Calculator/index.html` in your browser to see the game in action!
+> Open `index.html` in your browser to see the game in action!
 
 ---
 
